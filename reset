@@ -1,0 +1,29 @@
+[33mcommit ac8ecfd1a293f9962d08b41aaa6abf2883044855[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mcrazycolors[m[33m)[m
+Author: mangoButler <christian.hg.hegi@gmail.com>
+Date:   Wed Jan 11 02:47:25 2023 +0900
+
+    made new background version
+
+[33mcommit e8dc5f1ea9cbcd62e2d15a7852c1913967b4e083[m
+Author: mangoButler <christian.hg.hegi@gmail.com>
+Date:   Wed Jan 11 02:40:03 2023 +0900
+
+    change bg on body
+
+[33mcommit 146b5bc802db80aa7d5a284e026c05d8dba110dd[m
+Author: mangoButler <christian.hg.hegi@gmail.com>
+Date:   Wed Jan 11 02:37:19 2023 +0900
+
+    made changes to index and styles
+
+[33mcommit 1b7ebc56aeb796fa49c0cfa33488d4020980cef5[m
+Author: mangoButler <christian.hg.hegi@gmail.com>
+Date:   Wed Jan 11 02:33:38 2023 +0900
+
+    changed html and added app.js
+
+[33mcommit 9f0c0d6787f3c8124b3f0a3e94611b69653be469[m
+Author: mangoButler <christian.hg.hegi@gmail.com>
+Date:   Wed Jan 11 02:27:32 2023 +0900
+
+    create index.html
